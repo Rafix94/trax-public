@@ -41,7 +41,7 @@ export default {
       headers: [
         {text: 'Year', value: 'date'},
         {text: 'Make', value: 'make'},
-        {text: 'Model', value: 'model'},
+        {text: 'Models', value: 'model'},
       ]
     }
   },
